@@ -23,4 +23,7 @@ func main() {
 		fmt.Print(result.Val, "  ")
 		result = result.Next
 	}
+
+	//leet -50
+	fmt.Println(leet.MyPow(2.00, 8))
 }
